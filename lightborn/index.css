@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css2?family=Allura&display=swap);
+
+body {
+    background-image: url("ref.jpg");
+    background-color: #0000FF;
+   }
+
+h1{
+    font-family: 'allura', cursive;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 250px;
+    line-height: 1.15;
+    letter-spacing: -.02em;
+}
+div{
+    color: aqua;
+    text-align: center;
+}
